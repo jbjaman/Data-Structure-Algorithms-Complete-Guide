@@ -1,1 +1,3 @@
-# algorithms
+# Algorithms
+
++ Linear Search / Sequential Search
