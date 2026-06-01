@@ -1,3 +1,3 @@
-# Algorithms
+# Data Structure Algorithm With JavaScript
 
-+ Linear Search / Sequential Search
+- Linear Search / Sequential Search
