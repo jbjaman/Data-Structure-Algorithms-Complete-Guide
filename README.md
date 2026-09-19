@@ -1,3 +1,5 @@
-# Data Structure Algorithm With JavaScript
+<h1 align="center">Data Structure Algorithms</h1>
 
-- Linear Search / Sequential Search
+| No. | Topic               | Study                                                 | Online Judges                                           | Languages                                              |
+| --- | ------------------- | ----------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------ |
+| 01  | Arrays - Prefix SUm | [Note](https://codeforces.com/contest/2253/problem/A) | [ Problems](./JavaScript/C2253_A_The_Best_Card/main.js) | [Practice](./JavaScript/C2253_A_The_Best_Card/main.js) |
